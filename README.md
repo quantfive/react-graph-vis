@@ -88,4 +88,4 @@ ReactDOM.render(<App />, rootElement);
 
 
 
-You can also check out the demo in the [`example`](https://github.com/crubier/react-graph-vis/tree/master/example) folder.
+You can also check out the demo in the [`example`](https://github.com/quantfive/react-graph-vis/tree/master/example) folder.
