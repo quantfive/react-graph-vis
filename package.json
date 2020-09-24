@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/crubier/react-graph-vis.git"
+    "url": "https://github.com/quantfive/react-graph-vis.git"
   },
   "keywords": [
     "react-component",
@@ -20,7 +20,7 @@
     "network",
     "jsx"
   ],
-  "author": "Vincent Lecrubier <vincent.lecrubier@gmail.com> (http://www.vincentlecrubier.fr/)",
+  "author": "Quantfive LLC <hello@quantfive.org> (https://www.quantfive.org/)",
   "license": "MIT",
   "peerDependencies": {
     "@egjs/hammerjs": "^2.0.17",
